@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamuesoh
-- 👀 I’m interested in Fullstack web developer.
+- 👀 I’m Fullstack web developer.
 - 🌱 I’m currently looking parttime job, if you interest, you send email to me hamuesohjehteh@gmail.com .
 
 <!---
